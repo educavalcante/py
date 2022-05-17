@@ -1,0 +1,32 @@
+>>> SUBIR O ambiente virtual 
+bibliotecas
+pip gerenciador de pacotes
+pip list (ver o que tem instalado)
+
+criar ambiente virtual
+python -m venv aula06  *criar o ambiente
+source aula06/bin/activate  (habilitar)
+isolou o ambiente
+pip install flask
+www.pypi.org (documentação todas bibliotecas)
+
+deactivate (sair do ambiente)
+================================
+pip install django
+
+pep freeze (o que tem instalado)
+==versões que são usadas
+pip freeze > requirements.txt (jogar num txt para passar para colega_)
+
+python -m venv homolog       *criar o ambiente
+source homologacao/bin/activate  (habilitar)   - source no linux ver no windows
+comando no cmd do windows
+homolog\scripts\activate
+
+pip install - r requirements.txt  (criar o ambiente de acordo com as bibl do ambiente)
+>>> SUBIR O ambiente virtual 
+homolog\scripts\activate
+criar um ambiente, ativar, isolar, instalar os pacotes exportar os requeriments 
+criar novo ambiente, ativar e instalar de acordo com os requirements.txt
+pip install -r requeriments.txt
+
