@@ -17,7 +17,7 @@ class Gerente(Funcionario):
         self.__senha = senha
         self.__ger = ger
         
-    @property
+    @property 
     def senha(self):
         return self.__senha
     @senha.setter

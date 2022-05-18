@@ -8,4 +8,4 @@ class Dog:
 puppy = Dog(nome='rex', idade=5, raca="pastor alemao")
 boomer = Dog(nome='boomer', raca="pudle", idade=1)
 print(puppy.nome)
-print(boomer.nome)
+print(boomer.nome) 
